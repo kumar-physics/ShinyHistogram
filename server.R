@@ -1,6 +1,6 @@
 library(ggplot2)
 
-dat=read.csv('/kbaskaran/bmrb/Atom_chem_shift.csv',header=T)
+dat=read.csv('http://bmrb.wisc.edu/ftp/pub/bmrb/relational_tables/nmr-star3.1/Atom_chem_shift.csv',header=T)
 shinyServer(function(input, output, session) {
 
   # You can access the value of the widget with input$select, e.g.
