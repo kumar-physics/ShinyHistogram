@@ -1,2 +1,2 @@
 # ShinyHistogram
-Chmical shift histograms from BMRB
+Chemical shift histograms from BMRB
